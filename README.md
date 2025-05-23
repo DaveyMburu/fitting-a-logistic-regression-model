@@ -13,6 +13,8 @@ In this lab you will:
 * Implement logistic regression with `statsmodels` 
 * Interpret the statistical results associated with model parameters
 
+# Check the index.ipynb file for my workings
+
 ## Import the data
 
 Import the data stored in the file `'titanic.csv'` and print the first five rows of the DataFrame to check its contents. 
